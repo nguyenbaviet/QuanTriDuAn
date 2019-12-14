@@ -1,4 +1,4 @@
 # QuanTriDuAn
 Website bán sách online
 
-#Design by BestMonster and CuongNM
+#Design by BestMonster, CuongNM, DuyCao
