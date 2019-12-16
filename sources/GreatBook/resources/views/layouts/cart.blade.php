@@ -22,7 +22,9 @@
 <body>
     <div id="app">
         <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
-            
+            <div>
+				Cart view changed ;)
+			</div>
         </nav>
 
         <main class="py-4">
